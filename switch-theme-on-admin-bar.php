@@ -4,7 +4,7 @@
  * Plugin URI: http://xxxx7.com/switch-theme-on-admin-bar
  * Description: This plugin adds Theme menus in the admin bar. 
  * You can switch and activate the theme on the admin bar.
- * Version: 1.0
+ * Version: 1.1
  * Author: xxxx7
  * Author URL: http://xxxx7.com/
  */
